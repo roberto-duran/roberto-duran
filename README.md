@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roberto-duran
-- 🌱 I’m currently learning Angular - RUST
-- 💞️ I’m looking to collaborate on Angular projects 
+- 🌱 I’m currently learning Nextjs - RUST
+- 💞️ I’m looking to collaborate on Nextjs projects 
 - 📫 You can contac me here or info@robertoduran.me
 
 <!---
