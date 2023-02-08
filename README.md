@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roberto-duran
 - 🌱 I’m currently learning Nextjs - RUST
-- 💞️ I’m looking to collaborate on Nextjs|tailwindcss|Postgres projects 
+- 💞️ I’m looking to collaborate on Nextjs | tailwindcss | Postgres projects 
 - 📫 You can contac me here or info@robertoduran.me
 
 <!---
