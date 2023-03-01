@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/roberto-duran"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:info@robertoduran.me"><img height= "24" src= "https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h2>Things I code with</h2>
+<h2>Languages and Tools</h2>
 
 <p>
     <img src= "https://img.shields.io/badge/JavaScript-fcdc00?style=flat-square&logo=javascript&logoColor=white">
