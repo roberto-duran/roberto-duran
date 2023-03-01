@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/roberto-duran"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:info@robertoduran.me"><img height= "24" src= "https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h2>Things I have used</h2>
+<h2>Things I code with</h2>
 
 <p>
     <img src= "https://img.shields.io/badge/JavaScript-fcdc00?style=flat-square&logo=javascript&logoColor=white">
@@ -33,7 +33,8 @@
     <img src= "https://img.shields.io/badge/Apache-d12127?style=flat-square&logo=apache&logoColor=white">
     <img src= "https://img.shields.io/badge/Git-f34c28?style=flat-square&logo=git&logoColor=white">
     <img src= "https://img.shields.io/badge/Windows-badbfa?style=flat-square&logo=windows&logoColor=white">
-    
+    <img src= "https://img.shields.io/badge/Linux-e95420?style=flat-square&logo=linux&logoColor=white">
+    <img src= "https://img.shields.io/badge/MacOS-313131?style=flat-square&logo=apple&logoColor=white">
 <p>
   
 <hr/>
