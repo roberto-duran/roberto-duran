@@ -1,5 +1,7 @@
 ### Hi there <img src="https://wefixit.com.br/signature/images/hi.gif" width="24"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto-duran&label=Profile%20views&color=0e75b6&style=flat" alt="roberto-duran" /> </p>
+
 <p>I'm <a href="https://robertoduran.me">Roberto Duran</a>, Fullstack developer  that fall in love with <b><a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> Next.js 13^ AND RAG applications</b><br>
 </p>
 
