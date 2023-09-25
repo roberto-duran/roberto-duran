@@ -1,6 +1,6 @@
 ### Hi there <img src="https://wefixit.com.br/signature/images/hi.gif" width="24"> 
 
-<p>I'm <a href="https://robertoduran.me">Roberto Duran</a>, Fullstack developer  that fall in love with <b><a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> Next.js 13^</b><br>
+<p>I'm <a href="https://robertoduran.me">Roberto Duran</a>, Fullstack developer  that fall in love with <b><a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> Next.js 13^ AND RAG applications</b><br>
 </p>
 
 <a href="https://www.linkedin.com/in/roberto-duran"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
