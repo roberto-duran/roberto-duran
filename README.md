@@ -42,5 +42,5 @@
 <hr/>
 
 - 🌱 I’m currently learning Langchain
-- 💞️ I’m looking to collaborate on Langchain | Nextjs | tailwindcss | Postgres projects 
+- 💞️ I’m looking to collaborate on Langchain | Nextjs | Laravel | tailwindcss | Postgres projects 
 - 📫 You can contac me here or info@robertoduran.me
